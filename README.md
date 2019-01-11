@@ -1,2 +1,2 @@
 # hello_world
-my first project
+learning the way of github
